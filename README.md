@@ -7,7 +7,7 @@
 - PIL through pip
 
 ### Usage
-To start the game you will need to execute Driver.py using the command:
+To start the game you will need to execute Driver.py using the following commands on the command line:
 ```bash
 py Driver.py
 ```
